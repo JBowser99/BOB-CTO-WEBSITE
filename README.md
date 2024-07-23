@@ -1,10 +1,12 @@
 This website is for the $BOB crypto community!
 
-Make sure you have node.js installed and you will need firebase api keys for the /.env.local file as this is were the secret keys go for the thumbs up component to work in real time. 
+1. Make sure you have node.js installed and you will need your own firebase api keys for the /.env.local file as this is were the api keys go for the thumbs up component to work in real time. You would go to the firebase console and make an acocunt or login and setup a webapp api to use with the firebase database.
 
-To run: "npm run dev" or "yarn dev" 
+2. After downloading and extracting the project ensure you first run this command in the root directory of the project: "npm install next". In my application it was saying it needed this re downloaded in order to run after uploading it to Github.
 
-Thank you guys!
+3. To run the development / Testing Server: "npm run dev" or "yarn dev".
+
+Thank you all!
 
 _____________________________________________________________________
 
