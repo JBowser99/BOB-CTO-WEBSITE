@@ -4,7 +4,7 @@ This website is for the $BOB crypto community!
 
 2. After downloading and extracting the project ensure you first run this command in the root directory of the project: "npm install next". In my application it was saying it needed this re downloaded in order to run after uploading it to Github.
 
-3. To run the development / Testing Server: "npm run dev" or "yarn dev".
+3. To run the Development / Testing Server: "npm run dev" or "yarn dev".
 
 Thank you all!
 
