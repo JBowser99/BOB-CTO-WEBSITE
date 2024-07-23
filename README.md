@@ -1,3 +1,13 @@
+This website is for the $BOB crypto community!
+
+Make sure you have node.js installed and you will need firebase api keys for the /.env.local file as this is were the secret keys go for the thumbs up component to work in real time. 
+
+To run: "npm run dev" or "yarn dev" 
+
+Thank you guys!
+
+_____________________________________________________________________
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
